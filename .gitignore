@@ -13,7 +13,7 @@
 *.dylib
 *.pyc
 mnist/
-data/
+#data/
 caffe/
 grasp/
 images/
