@@ -66,3 +66,6 @@ uselib
 uselib_track
 darknet
 vcpkg/
+
+#folder
+test/test_images/test*
